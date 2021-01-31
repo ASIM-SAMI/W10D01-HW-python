@@ -2,7 +2,7 @@
 
 # Learning Python
 
-You've learned Ruby, C, C++, JavaScript and SQL. Getting started with a totally new language doesn't have to be hard. The biggest key is to practice doing something that you *already know* in the context of the new language. This is called a *transfer task*. The more languages and computer science concepts you learn, the easier new ones become to pick up and its mostly syntax, quirks and language-specific tools that become the tricky part.
+You've learned JavaScript. Getting started with a totally new language doesn't have to be hard. The biggest key is to practice doing something that you *already know* in the context of the new language. This is called a *transfer task*. The more languages and computer science concepts you learn, the easier new ones become to pick up and its mostly syntax, quirks and language-specific tools that become the tricky part.
 
 Now, your task is to *teach yourself* a bit of Python. The goal here isn't to become a Python master, but to explore and learn a bit about a new language.
 
@@ -19,17 +19,6 @@ By the end of this exercise, you should be able to:
 
 ## Installing Python
 
-Your Mac comes with Python 2.7. We want Python 3.
-
-`brew install python3`
-
-Execute the Python REPL with:
-
-`python3`
-
-Execute a Python program with:
-
-`python3 program.py`
 
 ## Research: What is Python
 
@@ -49,11 +38,6 @@ Your first task is to research Python to be able to understand some of its basic
 
 ##### Does it have strong support for functional programming?
 
-##### What's the deal with Python 2 vs Python 3?
-
-##### How do you open a REPL for Python?
-
-##### How does one execute a Python program?
 
 
 ## Read: The Zen of Python
@@ -109,4 +93,4 @@ Write the code to complete this in `euler_1/sum_of_natural_numbers.py`
 
 ## Conclusion
 
-How does Python compare to other langauges you've used? Which language is is closest to?
+How does Python compare to other langauges you've used? 
