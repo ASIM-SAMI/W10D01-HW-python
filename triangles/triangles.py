@@ -18,4 +18,4 @@ def allTriangles(a, b):
     return all_triples - colinear_triples
 
 
-allTriangles(21, 7)
+print(allTriangles(21, 7))
