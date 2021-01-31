@@ -12,6 +12,7 @@ def allTriangles(a, b):
                         for y3 in range(1, b + 1):
                             if (y3 - y1) == (y2 - y1 / x2 - x1) * (x3 - x1):
                                 colinear_triples += 1
+    print("all_triples: ", all_triples)
     print("colinear_triples: ", colinear_triples)
 
     return all_triples - colinear_triples
