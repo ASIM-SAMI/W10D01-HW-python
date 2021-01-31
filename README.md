@@ -23,19 +23,19 @@ By the end of this exercise, you should be able to:
 Your first task is to research Python to be able to understand some of its basic concepts. Edit this `README.md` file to answer the below questions:
 
 ##### What paradigms does Python support?
-
+Python supports imperative, functional, procedural, and object-oriented programming
 ##### What typing discipline does it follow?
-
+Python Is a Dynamically Typed Language.
 ##### Is it a high or low level language?
-
+high-level language
 ##### Does it have built in memory management and garbage collection?
-
+yes, it does.
 ##### What languages was Python influenced by?
-
+inspired from other programming languages like C, C++.
 ##### Is it a compiled or interpeted language?
-
+Python is an interpreted language.
 ##### Does it have strong support for functional programming?
-
+yes, it does.
 
 
 
